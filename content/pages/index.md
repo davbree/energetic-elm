@@ -16,7 +16,7 @@ sections:
     badge:
       elementId: ''
       label: lorem-ipsum
-    title: lorem-ipsum!!!
+    title: lorem-ipsum!
     text: >-
       ## Lorem ipsum
 

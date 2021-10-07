@@ -17,7 +17,7 @@ sections:
       elementId: ''
       label: lorem-ipsum
     title: Latest news
-    subtitle: Featured blog posts section example
+    subtitle: Featured blog posts section example!!!
     actions:
       - type: Button
         label: View all

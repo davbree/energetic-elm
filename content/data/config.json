@@ -43,6 +43,17 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Button"
+            },
+            {
+                "elementId": "",
+                "label": "Learn more",
+                "altText": "Learn more",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowLeft",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Button"
             }
         ],
         "secondaryLinks": [

@@ -3,6 +3,29 @@ title: Home
 layout: PageLayout
 sections:
   - elementId: ''
+    colors: colors-f
+    width: wide
+    height: tall
+    contentWidth: small
+    contentAlignHoriz: center
+    contentAlignVert: middle
+    topGap: none
+    bottomGap: none
+    textAlign: center
+    badge:
+      elementId: ''
+      label: lorem-ipsum
+    title: The Section Title
+    subtitle: The section subtitle
+    text: |-
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
+      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
+      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
+      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    type: TextSection
+  - elementId: ''
     colors: colors-h
     width: wide
     height: tall

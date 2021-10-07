@@ -1,5 +1,5 @@
 # Stackbit Nextjs V2
-
+a
 The NextJs core starter for Stackbit.
 
 ## Quickstart

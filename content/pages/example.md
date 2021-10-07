@@ -17,7 +17,7 @@ sections:
       elementId: ''
       label: lorem-ipsum
     title: About us
-    subtitle: Meet the team
+    subtitle: Meet the team!!!
     actions: []
     people:
       - content/data/team/desmond-eagle.json

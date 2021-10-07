@@ -6,7 +6,7 @@ The NextJs core starter for Stackbit.
 
 
 ```
-npm install
+npm install!!
 ```
 
 ```

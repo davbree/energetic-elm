@@ -22,7 +22,7 @@ sections:
 
 
       Lorem !ipsum do!lor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      eiusmod tempor incididunt u t labore et dolore magna aliqua.
 
 
       - Lorem ipsum

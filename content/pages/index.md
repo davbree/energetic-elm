@@ -12,7 +12,7 @@ sections:
     bottomGap: none
     topGap: none
     text: >-
-      W!!e will notify you every tim!!e a!! sh!!ipment is heading to your neighborhood,
+      W!!e will notify you every tim!!e a!! sh!!ipment is heading to your neighborhoo!!dsad,
       and you could immediatly let us know if yo!dsau want in or not.!!
     feature:
       type: ImageBlock

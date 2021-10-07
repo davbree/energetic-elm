@@ -17,18 +17,9 @@ sections:
       elementId: ''
       label: lorem-ipsum
     title: Another Title...
-    subtitle: This Is Subtitle
+    subtitle: This Is Subtitle!
     text: Hello
     actions:
-      - elementId: ''
-        label: Learn more
-        altText: Learn more
-        url: /
-        showIcon: false
-        icon: arrowLeft
-        iconPosition: right
-        style: secondary
-        type: Button
       - label: Stackbit
         url: 'https://www.stackbit.com'
     feature:
